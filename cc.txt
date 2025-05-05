@@ -1,0 +1,1 @@
+Cloud computing is essentially storing and accessing data, software, and other computing resources over the internet, rather than having them on your own devices or local servers. Think of it like renting a virtual computer in the "cloud" instead of buying and owning your own.
